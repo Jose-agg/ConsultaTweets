@@ -17,3 +17,11 @@ Para probar el proyecto es necesario escribir en linea de comandos:
 ## Wiki ##
 
 Para mas información sobre el proyecto, visite la [wiki](https://github.com/MrKarrter/ConsultaTweets/wiki)
+
+
+## Autoria ##
+Este proyecto fue realizado por:
+
+- [Pelayo Martínez Capela](https://github.com/PelayoMC)
+- [Guillermo Díaz Pérez](https://github.com/guillediaz11)
+- [José Antonio García García](https://github.com/MrKarrter)
